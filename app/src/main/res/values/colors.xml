@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#000000</color> 
+    <color name="syllableColorBg">#6200EE</color> 
+    <color name="button_hover_color">#3700B3</color> 
+    <color name="button_pressed_color">#6200EE</color> 
+    <color name="button_disabled_color">#BDBDBD</color> 
+    <color name="cardBackground">#FFFFFF</color> 
+    <color name="background">#f0f4f9</color>
+    <color name="fail_card">#ED2B2A</color>
+    <color name="success_card">#4CAF50</color>
+</resources>
